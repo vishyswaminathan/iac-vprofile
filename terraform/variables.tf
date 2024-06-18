@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-### vishy did it again asdfasdf ####
+### vishy did it again and again ####
