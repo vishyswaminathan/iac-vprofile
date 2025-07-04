@@ -20,7 +20,7 @@ env:
 
   # S3 bucket for terraform state
  BUCKET_TF_STATE: ${{ secrets.BUCKET_TF_STATE }}
- AWS_REGION: ap-south-1
+ AWS_REGION: us-east-1
  EKS_CLUSTER: vprofile-eks
 
 jobs:
@@ -33,7 +33,7 @@ jobs:
          working-directory: ./terraform
 
      steps:
-       - name: Checkout source code
+       - name: Checkout source  code
          uses: actions/checkout@v4
 
        - name: Setup Terraform with specified version on the runner
