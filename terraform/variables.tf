@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-### vishy , lets try gitops ##
+### vishy , here we go! ##
