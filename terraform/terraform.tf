@@ -27,9 +27,9 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "vprofileactionsvishy"
+    bucket = "pragra-azure"
     key    = "terraform.tfstate"
-    region = "ap-south-1"
+    region = "us-east-1"
   }
 
   required_version = "~> 1.8.5"
