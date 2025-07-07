@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-### just some random updates ##
+### gitops - Vishy ##
