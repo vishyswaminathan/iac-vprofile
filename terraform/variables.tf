@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "vprofile-eks"
 }
 
-### testing gitops workflow ##
+### gitops - Vishy ##
