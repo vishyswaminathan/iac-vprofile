@@ -13,3 +13,4 @@ Terraform version 1.6.3
 * terraform apply -auto-approve -input=false -parallelism=1 planfile
 ####
 #####
+![20250707_163707~2](https://github.com/user-attachments/assets/be439cb4-f38e-4583-a4c2-a2b698ee1b24)
